@@ -1,1 +1,1 @@
-# ticker-tracker
+# Ticker Tracker
