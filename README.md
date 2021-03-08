@@ -6,3 +6,4 @@ Data Source: Yahoo
 
 Shiny App URL: https://rmitra.shinyapps.io/ticker-tracker/
 
+Screenshot: ![img](dashboard_screenshot.JPG)
